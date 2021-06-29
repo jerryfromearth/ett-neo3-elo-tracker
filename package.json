@@ -1,0 +1,10 @@
+{
+  "name": "ett-elo-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jerryfromearth <jerryfromearth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

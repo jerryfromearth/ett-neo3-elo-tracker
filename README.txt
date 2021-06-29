@@ -1,0 +1,1 @@
+Logs highest ELO ETT player in intervals.
