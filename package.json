@@ -1,10 +1,19 @@
 {
   "name": "ett-elo-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "jerryfromearth <jerryfromearth@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerryfromearth/ett-neo3-elo-tracker"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
+    "lodash": "^4.17.21",
+    "nconf": "^0.11.3",
     "node-fetch": "^2.6.1"
   }
 }
